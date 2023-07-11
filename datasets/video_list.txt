@@ -1,0 +1,7 @@
+id	title	url
+0001	UOL vs TES _ Worlds Group Stage Day 8 _ Unicorns Of Love vs Top Esports (2020).mp4	https://youtu.be/_vmk8_zSYPo
+0002	UOL vs FLY _ Worlds Group Stage Day 8 _ Unicorns Of Love vs FlyQuest (2020).mp4 https://youtu.be/DfdfGiCqAtE
+0003	TES vs FLY _ Worlds Group Stage Day 8 _ Top Esports vs FlyQuest (2020).mp4	https://youtu.be/3AmYj_omWWA
+0004	FLY vs DRX _ Worlds Group Stage Day 8 _ FlyQuest vs DRX (2020).mp4	https://youtu.be/nPUTJR8eHIE
+0005	DRX vs UOL _ Worlds Group Stage Day 8 _ DRX vs Unicorns Of Love (2020).mp4	https://youtu.be/JJ9eyq5kLHo
+0006	DRX vs TES _ Worlds Group Stage Day 8 _ DRX vs Top Esports (2020).mp4   https://youtu.be/S3Wz6AtDFa4
